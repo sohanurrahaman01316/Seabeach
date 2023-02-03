@@ -10,9 +10,13 @@ Determining how the development of technology in this COVID-19 era has affected 
 Technology progress has been employed to promote and enable the firm to run continuously since the global COVID-19 outbreak. Online purchasing has become essential worldwide as a result of COVID-19 in order to reduce travel and stop the spread of the coronavirus. 3 Robust logistics systems that use robots to transport food supplies and other goods because person-to-person delivery is not virus-proof boost online purchasing. 
 
 Contactless delivery services have been introduced in nations like China and the United States, allowing clients to purchase their goods and have them delivered to predetermined places rather than selecting them out with their hands. Despite this pandemic, not all sectors have equal access to e-commerce. Online behavior has seen significant variations and modifications in this following figure. In some industries, traffic has significantly increased, whereas it has significantly decreased in other industries.
+
 ![Branching](./assets/1.jpg)
+
 ## How artificial intelligence could help the fight against COVID-19
+
 ![Branching](./assets/2.jpg)
+
 Machines and systems are providing fresh approaches to combating pandemics by utilizing big data and deep learning.
 
 Artificial intelligence (AI) during an epidemic may sound like the sci-fi movie scenario of the future, but from the start of the COVID-19 epidemic, attempts have been made to apply the technology in numerous ways, frequently without being identified as "AI." Artificial intelligence generally involves teaching robots to acquire intelligence in the same way that people do, by leveraging human traits like foresight, logic, flexibility, creativity, and problem-solving. AI systems may one day prove helpful in a time-sensitive medical emergency since they are capable of adapting to continually changing data.
@@ -81,20 +85,17 @@ https://journals.sagepub.com/doi/full/10.1177/20503121211000912
 
 
 3. How artificial intelligence could help the fight against COVID-19
-https://www.gavi.org/vaccineswork/how-artificial-intelligence-could-help-fight-against-covid-19?gclid=CjwKCAiAuOieBhAIEiwAgjCvcqa7oVl7-TZJOEw7XSnDP5Ynjo5Zh2ssYL_CeymG6rGW8FCjAp3myhoCON4QAvD_BwE
+https://www.gavi.org/vaccineswork/how-artificial-intelligence-could-help-fight-against-covid-19
 
 4. Remote healthcare and telemedicine
-https://www.forbes.com/sites/bernardmarr/2022/01/10/the-five-biggest-healthcare-tech-trends-in-2022/?sh=1093310754d0&fbclid=IwAR3seQlnzFGMlB8IIM1SdsmU2dWQra-8LAUv6X3L5ri-RWH5F2iaEccS3j0
-
+https://www.forbes.com/sites/bernardmarr/2022/01/10/the-five-biggest-healthcare-tech-trends-in-2022/
 5. The rise of digital health technologies during the pandemic
-https://www.europarl.europa.eu/thinktank/en/document/EPRS_BRI(2021)690548?fbclid=IwAR31sIJtjZxenAQZjvoulpAqpHyv2o1f92RAgZf6hytbL7oN5VZ7_pCuh6U#:~:text=Coronavirus%20has%20accelerated%20the%20rise,health%20platforms%20and%20health%20apps
+https://www.europarl.europa.eu/thinktank/en/document/EPRS_BRI(2021)690548
 
 6. Preparing for Healthcare Technologies of the Future
 https://apploi.com/blog/hr-strategy/emerging-healthcare-technology/
 
 7. Technological Challenges
- https://www.forbes.com/sites/forbestechcouncil/2022/01/11/the-future-of-healthcare-technology/?sh=6246cb024750&fbclid=IwAR0xq5Nn9dT0ZBKN-dTegUwtw4merQI4RMUoR36J0cLnDkA76COJOWdDoYM
+ https://www.forbes.com/sites/forbestechcouncil/2022/01/11/the-future-of-healthcare-technology/
 
-8. The pandemic has pushed new healthcare technology priorities ahead of old ones.
-
-https://risk.lexisnexis.com/insights-resources/research/covid-19-impact-on-healthcare-technology-priorities?fbclid=IwAR3vahtXp8CvYGJxdDFBMMgJEPSgcNancNUaGIvT1pSYrdAiE2Et_8Mrz4g
+8. The pandemic has pushed new healthcare technology priorities ahead of old ones.https://risk.lexisnexis.com/insights-resources/research/covid-19-impact-on-healthcare-technology-priorities
