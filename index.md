@@ -103,3 +103,8 @@ https://apploi.com/blog/hr-strategy/emerging-healthcare-technology/
  https://www.forbes.com/sites/forbestechcouncil/2022/01/11/the-future-of-healthcare-technology/
 
 8. The pandemic has pushed new healthcare technology priorities ahead of old ones.https://risk.lexisnexis.com/insights-resources/research/covid-19-impact-on-healthcare-technology-priorities
+
+### About Me
+This is Sohanur Rahaman I’m a student studying Health Informatics in DIT, Germany. I’m currently living in Bangladesh. I love travelling, watching tv series, playing football.
+
+Matriculation Number: 22205514 © 2023 Sohanur Rahaman
